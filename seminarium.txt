@@ -1,0 +1,5 @@
+Vad händer om man skulle ha en metall hink i båda fallen, större värmeledningsförmåga? 
+Svar: Värme leds bort från den varma hinken och värma tillförs till den kalla. 
+Detta leder till att skillnaden mellan COP värm och COP kall kommer jämnas ut.
+COP kall typ 3, COP varma typ 5 för Elias grupp. 
+Det ska vara 1-3 för kall och 2-4 för varm. Skillnaden mellan dem ska vara ungefär 1.
